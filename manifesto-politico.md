@@ -29,3 +29,5 @@ La strada per il successo è lastricata di errori e di brutte figure. È inevita
 ## SIAMO APERTI E TRASPARENTI
 
 Argomento inflazionato questo "essere trasparenti", ma quanti possono dirsi esserlo realmente? Noi lavoreremo alla luce del sole, tutte le nostre conversazioni saranno pubblicamente accessibili online da chiunque, così come anche i bilanci. Facile gridare "onestà! onestà!" e nascondersi dietro un software di votazione proprietario. Puntiamo alla digitalizzazione ed abbracciamo le nuove tecnologie, consapevoli dei pro e dei contro.
+
+[Fonte](https://www.progettoantidoto.it/page.php?p=manifesto)
