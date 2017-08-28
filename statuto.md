@@ -52,10 +52,10 @@ L'Associazione persegue ogni iniziativa che, in modo diretto o indiretto, contri
 10. promuove e realizza i contenuti per la stampa e la diffusione di libri, riviste, articoli, periodici o pubblicazioni di qualunque genere e tipo, anche audiovisivi, su suporto analogico o digitale o diffusi per via telematica;
 11. offre informazione, consulenza e collaborazione;
 12. realizza e mantiene attivo un sito internet, raggiungibile dai domini progettoantidoto.it/.com, nel quale sono pubblicati:
-  1. atto costitutivo, statuto, Albo e qualsivoglia atto pubblico relativo al Partito;
-  2. qualsiasi atto connesso al raggiungimento delle proprie finalità istituzionali;
-  3. convocazioni di Assemblea e relative modalità;
-  4. qualsiasi contenuto inerente alle tematiche trattate, tra cui anche quelli di cui al punto 10.
+    1. atto costitutivo, statuto, Albo e qualsivoglia atto pubblico relativo al Partito;
+    2. qualsiasi atto connesso al raggiungimento delle proprie finalità istituzionali;
+    3. convocazioni di Assemblea e relative modalità;
+    4. qualsiasi contenuto inerente alle tematiche trattate, tra cui anche quelli di cui al punto 10.
 13. promuove strutture di servizio per la realizzazione delle proprie finalità;
 14. compie ogni altro atto necessario al raggiungimento delle proprie finalità.
 
