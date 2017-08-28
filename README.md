@@ -9,6 +9,7 @@ Il sito ufficiale del Progetto Antidoto è https://www.progettoantidoto.it
 ## Contenuto
 
 - [Manifesto politico](manifesto-politico.md)
+- [Lettera aperta di Giuseppe Cossalter](lettera-aperta.md)
 - Statuto
 - Regolamento
 - ecc.
