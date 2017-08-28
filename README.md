@@ -8,7 +8,7 @@ Il sito ufficiale del Progetto Antidoto è https://www.progettoantidoto.it
 
 ## Contenuto
 
-- Manifesto politico
+- [Manifesto politico](manifesto-politico.md)
 - Statuto
 - Regolamento
 - ecc.
